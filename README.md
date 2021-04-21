@@ -21,7 +21,7 @@ A Self-Motivated proud practicing Muslim with the energy to change the world Ins
 
 
 ## ⚡ Index of my Git Hub Repos
-* [Data Science Algorithms Inplementation](https://github.com/ashrafulhaqove/Data-Science)
+* [Data Science Algorithms Implementation](https://github.com/ashrafulhaqove/Data-Science)
 * 
 
 
