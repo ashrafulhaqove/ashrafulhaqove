@@ -3,6 +3,9 @@ A Self-Motivated proud practicing Muslim with the energy to change the world Ins
 
 
 ## 🌱 I’m currently learning
+* Artificial Intelligence, to be specific Machine Learning - Deep Learning for real world applications etc
+* Data Science - Information Extraction, Data Cleaning, Data Interpretation, Corporate use of Data etc  
+* Flutter - an open-source UI software development kit created by Google. It is used to develop applications for Android, iOS, Linux, Mac, Windows, Google Fuchsia, and the web from a single codebase. 
 
 <!--
 **ashrafulhaqove/ashrafulhaqove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
