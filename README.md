@@ -1,4 +1,8 @@
-## Assalamu Alaikum  👋
+# Assalamu Alaikum  👋
+A Self-Motivated proud practicing Muslim with the energy to change the world Insha-ALLAH. Love making new relations, helping the un-helped, making people smile. Enthusiasm in Theology, Science, History, Arts and 'Coffee' of course ! 
+
+
+## 🌱 I’m currently learning
 
 <!--
 **ashrafulhaqove/ashrafulhaqove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
