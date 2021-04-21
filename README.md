@@ -19,6 +19,10 @@ A Self-Motivated proud practicing Muslim with the energy to change the world Ins
 * Parts of Speech Detection
 * Optimization Techniques
 
+
+## 📫 How to reach me:
+* ove.ashraf@gmail.com
+
 <!--
 **ashrafulhaqove/ashrafulhaqove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
