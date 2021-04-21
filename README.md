@@ -22,7 +22,10 @@ A Self-Motivated proud practicing Muslim with the energy to change the world Ins
 
 ## 📋 Index of my Git Hub Repos
 * [Data Science Algorithms Implementation](https://github.com/ashrafulhaqove/Data-Science)
-* 
+* [Data Structure and Algorithms](https://github.com/ashrafulhaqove/DataStructures-Algorithms)
+* [Database Implementations](https://github.com/ashrafulhaqove/DataBase-lab)
+* [Operating System Concepts Implementation](https://github.com/ashrafulhaqove/OS-Lab)
+
 
 
 ## 📫 How to reach me:
