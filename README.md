@@ -21,7 +21,9 @@ A Self-Motivated proud practicing Muslim with the energy to change the world Ins
 
 
 ## ⚡ Index of my Git Hub Repos
-*
+* [Data Science Algorithms Inplementation](https://github.com/ashrafulhaqove/Data-Science)
+* 
+
 
 ## 📫 How to reach me:
 * ove.ashraf@gmail.com
