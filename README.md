@@ -24,6 +24,21 @@ A Self-Motivated proud practicing Muslim with the energy to change the world Ins
 
 
 ### Projects
+**Data Science**
+* Bangla Digit Recognition from Handwritten digits
+* Gender Recognition from Handwritten characters 
+* HR prediction from Kaggle HR data set
+
+
+**Software**
+* To-Let.com: A house renting website using HTML, CSS, Bootstrap, MySQL, PHP
+* Database System : The Desktop software was an administrative software for a ‘Ride Sharing’ company using MSSQL, JAVA
+* Web Solution for Model Pharmacies: A web based complete business solution for pharmacies using C#, Entity framework, ASP.net MVC
+* Distributed Database and Cyber Security: Honey Encryption System for sensitive banking data using Pl/Sql, Oracle Database 10g
+* Bamboo-Panda : An arcade game using C++ , I-graphics
+* Project Code-Jam : A network based IDE with multiple pc in the same Local Area Network having access to the same code using JAVA SWING, Socket, Multi-Threading
+* Salah-Assistant : Islamic productivity app for android. Using XML ,JAVA, SQLite, Json, Google maps API, location services, Compass
+
 
 ### Raw Coding
 * [Data Science Algorithms Implementation](https://github.com/ashrafulhaqove/Data-Science)
