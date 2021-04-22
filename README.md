@@ -27,7 +27,8 @@ A Self-Motivated proud practicing Muslim with the energy to change the world Ins
 **Data Science**
 * Bangla Digit Recognition from Handwritten digits
 * Gender Recognition from Handwritten characters 
-* HR prediction from Kaggle HR data set
+* HR prediction: Predict Whether an employee is looking for a new job or not from Kaggle HR data set - Neural Networks, Pytorch
+
 
 
 **Software**
