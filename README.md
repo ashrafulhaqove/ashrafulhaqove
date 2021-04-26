@@ -26,7 +26,7 @@ A Self-Motivated proud practicing Muslim with the energy to change the world Ins
 
 
 ### Projects
-**Data Science**
+#### **Data Science**
 * Bangla Digit Recognition from Handwritten digits
 * Gender Recognition from Handwritten characters 
 * HR prediction: Predict Whether an employee is looking for a new job or not from Kaggle HR data set - Neural Networks, Pytorch
