@@ -30,6 +30,7 @@ A Self-Motivated proud practicing Muslim with the energy to change the world Ins
 * Bangla Digit Recognition from Handwritten digits
 * Gender Recognition from Handwritten characters 
 * [HR prediction: Predict Whether an employee is looking for a new job or not from Kaggle HR data set - Neural Networks, Pytorch](https://github.com/ashrafulhaqove/Data-Science-Projects/tree/main/HR%20Prediction)
+* Data Irregularity(mislabelled) detection from E-commerce products dataset using Un-supervised Learning - K-Means - Scikit Learn 
 
 
 #### **Software**
