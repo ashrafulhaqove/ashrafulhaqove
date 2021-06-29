@@ -27,8 +27,8 @@ A Self-Motivated proud practicing Muslim with the energy to change the world Ins
 
 ### Projects
 #### **Data Science**
-* Bangla Digit Recognition from Handwritten digits
-* Gender Recognition from Handwritten characters 
+* Bangla Digit Recognition from Handwritten digits - Multi class classification model using both Logistic Regression and Neural Networks using NumtaDB as dataset and Pytorch
+* Gender Recognition from Handwritten characters - A binary classification model using Neural Networks, Digital Image Processing Techniques using Pytorch
 * [HR prediction: Predict Whether an employee is looking for a new job or not from Kaggle HR data set - Neural Networks, Pytorch](https://github.com/ashrafulhaqove/Data-Science-Projects/tree/main/HR%20Prediction)
 * Data Irregularity(mislabelled) detection from E-commerce products dataset using Un-supervised Learning - K-Means - Scikit Learn 
 
