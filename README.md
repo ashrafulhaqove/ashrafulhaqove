@@ -2,29 +2,30 @@
 
 <br>
 
-## Md. Ashraful Haque
-### Data Scientist • ML Engineer • Team Lead
+# Md. Ashraful Haque
+
+**Data Scientist** | **Machine Learning Engineer** | **Technical Leader**
 
 <br>
 
-**Currently:** Building production ML systems at [Greentech Apps Foundation](https://gtaf.org)  
-**Previously:** Led data teams at Daraz Bangladesh (Alibaba Group) • 2M+ monthly transactions  
-**Impact:** 95.4% model accuracy at £1.06 cost • $45K quarterly savings • Serving millions globally
+</div>
 
-<br>
+Building production ML systems with measurable impact. Currently at [Greentech Apps Foundation](https://gtaf.org), previously led data teams at Daraz Bangladesh (Alibaba Group) serving 2M+ monthly transactions.
 
-`Python` • `PyTorch` • `SQL` • `LLMs` • `NLP` • `Real-Time Systems`
+**Recent Work:**
+```python
+{
+    "llm_pipeline": {"accuracy": 95.4, "cost": "£1.06", "scale": "3,210 records"},
+    "fraud_detection": {"reduction": "18%", "savings": "$45K/quarter"},
+    "forecasting": {"horizon": "30 days", "scale": "2M+ transactions"},
+    "monitoring": {"recovery": "£12K+", "time": "72 hours"}
+}
+```
 
-<br>
+**Technical Stack:** Python • PyTorch • TensorFlow • SQL • MongoDB • BigQuery • LLMs • NLP • Real-Time Analytics
 
 **Location:** Dhaka, Bangladesh • **Open to:** Remote | Hybrid | On-Site | Relocation
 
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/ashrafulhaqove)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail)](mailto:ove.ashraf@gmail.com)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/ashrafulhaqove)
-
 ---
 
-</div>
+📫 **Connect:** [LinkedIn](https://linkedin.com/in/ashrafulhaqove) • [Email](mailto:ove.ashraf@gmail.com) • [Twitter](https://twitter.com/ashrafulhaqove)
