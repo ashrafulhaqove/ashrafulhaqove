@@ -7,8 +7,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Scientist+%7C+ML+Engineer;Building+Production+AI+Systems;95.4%25+Accuracy+at+%C2%A31.06+Cost;LLM+%7C+NLP+%7C+PyTorch+%7C+Time-Series;Open+to+Remote+%7C+Hybrid+%7C+Relocation" alt="Typing SVG" /></a>
 
 <p>
-  <em>Shipping production ML systems at <a href="https://gtaf.org">Greentech Apps Foundation</a> serving millions globally</em><br>
-  <em>Previously led data teams at Daraz Bangladesh (Alibaba Group) across 2M+ monthly transactions</em>
+  <em>Optimising products and processes at <a href="https://gtaf.org">Greentech Apps Foundation</a> serving millions globally</em><br>
+  <em>Previously led data team at Daraz Bangladesh (Alibaba Group) across 2M+ monthly transactions</em>
 </p>
 
 <!-- Social Badges -->
