@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=0,2,3,5,6&height=200&section=header&text=Md.%20Ashraful%20Haque&fontSize=55&fontColor=fff&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:2E9EF7,100:1a73e8&height=200&section=header&text=Md.%20Ashraful%20Haque&fontSize=48&fontColor=ffffff&rotate=13&fontAlignY=25&desc=Production%20ML%20Engineer%20%7C%205%20Years%20Experience&descSize=16&descAlignY=45" />
 
 <!-- Animated Typing SVG -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Scientist+%7C+ML+Engineer;Building+Production+AI+Systems;95.4%25+Accuracy+at+%C2%A31.06+Cost;LLM+%7C+NLP+%7C+PyTorch+%7C+Time-Series;Open+to+Remote+%7C+Hybrid+%7C+Relocation" alt="Typing SVG" /></a>
