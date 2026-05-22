@@ -1,6 +1,6 @@
 # Md. Ashraful Haque
 
-**Data Scientist | Team Lead | Arabic NLP Specialist**
+**Data Leader | Customer Experience | Arabic NLP Specialist**
 
 Building data systems that transform organizations and serve millions. 5 years leading analytics initiatives across nonprofit tech and e-commerce at scale.
 
@@ -8,7 +8,7 @@ Building data systems that transform organizations and serve millions. 5 years l
 
 ## 👔 Professional Identity
 
-I lead with data. Whether it's **identifying hidden fraud patterns** costing $45K quarterly, **uncovering user behavior insights** that reshape product roadmaps, or **building real-time systems** that recover £12K in stuck payments within 72 hours—I find the problems others miss and architect solutions that scale.
+I lead with data. Whether it's **identifying hidden fraud patterns** costing $45K quarterly, **uncovering user behavior insights** that reshape product roadmaps, or **building real-time systems** that recover £12K in stuck payments within 72 hours—I find the problems others miss and architect solutions that scale. Alhamdulillah!
 
 Currently **Data Scientist at Greentech Apps Foundation** (UK-based Islamic tech serving millions globally). Previously **Team Lead - Data** at **Daraz Bangladesh** (Alibaba Group), where I led analytics for 500+ customer service agents processing 2M+ monthly transactions.
 
