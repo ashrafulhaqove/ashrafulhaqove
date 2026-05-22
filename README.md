@@ -6,7 +6,7 @@ Building data systems that transform organizations and serve millions. 5 years l
 
 ---
 
-## 👔 Professional Identity
+## 👔 Who am I?
 
 I lead with data. Whether it's **identifying hidden fraud patterns** costing $45K quarterly, **uncovering user behavior insights** that reshape product roadmaps, or **building real-time systems** that recover £12K in stuck payments within 72 hours—I find the problems others miss and architect solutions that scale. Alhamdulillah!
 
