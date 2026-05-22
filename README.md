@@ -1,4 +1,4 @@
-# Hi, I'm Ashraful 👋
+# Assalamu Alaikum, I'm Ashraf 👋
 
 **Data Scientist | Machine Learning Engineer | Building Production AI Systems**
 
