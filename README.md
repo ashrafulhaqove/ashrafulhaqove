@@ -92,20 +92,8 @@ KPI Framework Design • Stakeholder Management • Root Cause Analysis • RICE
 
 ---
 
-## 🔬 Current Focus
 
-**Building production data infrastructure for Islamic tech at scale.** Researching Arabic NLP applications in computational Hadith science, Quranic text analysis, and Islamic digital scholarship.
-
-**Exploring domain expertise** in three strategic areas for Middle East opportunities:
-- Energy analytics (oil, gas, renewables under Vision 2030)
-- Islamic finance data systems
-- Healthcare analytics and medical informatics
-
-**Following key organizations:** Saudi Aramco, ACWA Power, HUMAIN, Al Rajhi Bank, SAMA, SDAIA, King Faisal Specialist Hospital
-
----
-
-## 🌐 Portfolio Projects
+## 🌐 Projects
 
 ### Production Systems (Coming Soon)
 Showcasing real-world systems built at GTAF and Daraz:
@@ -136,19 +124,7 @@ Ahsanullah University of Science and Technology (AUST) • CGPA: 3.73/4.00 • 2
 
 ---
 
-## 🌍 Open to Opportunities
 
-**Remote | Hybrid | Open to Relocation**
-
-Currently based in Dhaka, Bangladesh. Open to opportunities in the Middle East (Saudi Arabia, UAE) in data science, machine learning, and analytics leadership roles.
-
-**Ideal roles:**
-- Senior Data Scientist / Lead Data Scientist
-- ML Engineer (Arabic NLP focus)
-- Analytics Manager / Head of Data
-- Research Scientist (Computational Islamic Studies)
-
----
 
 ## 📫 Let's Connect
 
