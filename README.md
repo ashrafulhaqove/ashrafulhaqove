@@ -96,7 +96,7 @@ KPI Framework Design • Stakeholder Management • Root Cause Analysis • RICE
 ## 🌐 Projects
 
 ### Production Systems
-Showcasing real-world systems built at GTAF and Daraz:
+Showcasing real-world systems:
 
 🎯 **[donor-analytics-pipeline](https://github.com/ashrafulhaqove/donor-analytics-pipeline)** — Live
 Segmentation, LTV forecasting, cohort migration tracking (16K+ records, 7-tier RFM classification)
