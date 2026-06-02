@@ -98,7 +98,7 @@ KPI Framework Design • Stakeholder Management • Root Cause Analysis • RICE
 ### Production Systems
 Showcasing real-world systems:
 
-🎯 **[donor-analytics-pipeline](https://github.com/ashrafulhaqove/donor-analytics-pipeline)** — Live
+🎯 **donation-analytics-pipeline** — Live
 Segmentation, LTV forecasting, cohort migration tracking (16K+ records, 7-tier RFM classification)
 
 🔤 **arabic-nlp-toolkit**
