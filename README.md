@@ -1,6 +1,6 @@
 # Md. Ashraful Haque
 
-**Data Leader | Customer Experience | Arabic NLP Specialist | Ai and Analytics Engineer**
+**Data Leader | Customer Experience | Arabic NLP Specialist | AI and Analytics Engineer**
 
 Building data systems that transform organizations and serve millions. 5 years leading analytics initiatives across nonprofit tech and e-commerce at scale.
 
