@@ -1,16 +1,27 @@
 # Md. Ashraful Haque
 
-**Data Leader | Customer Experience | Arabic NLP Specialist | AI and Analytics Engineer**
+**Data Engineer & Analytics Leader** — 5 years turning messy data into systems that scale.
 
-Building data systems that transform organizations and serve millions. 5 years leading analytics initiatives across nonprofit tech and e-commerce at scale.
+Currently **Data Scientist at Greentech Apps Foundation** (UK-based Islamic tech serving millions globally). Previously **Team Lead - Data** at **Daraz Bangladesh** (Alibaba Group), leading analytics for 500+ agents across 2M+ monthly transactions.
 
 ---
 
 ## 👔 Who I am
 
-I lead with data. Whether it's **identifying hidden fraud patterns** costing $45K quarterly, **uncovering user behavior insights** that reshape product roadmaps, or **building real-time systems** that recover £12K in stuck payments within 72 hours—I find the problems others miss and architect solutions that scale. Alhamdulillah!
+I lead with data. Whether it's **identifying hidden fraud patterns** costing $45K quarterly, **uncovering user behavior insights** that reshape product roadmaps, or **building real-time systems** that recover £12K in stuck payments within 72 hours — I find the problems others miss and architect solutions that scale. Alhamdulillah!
 
-Currently **Data Scientist at Greentech Apps Foundation** (UK-based Islamic tech serving millions globally). Previously **Team Lead - Data** at **Daraz Bangladesh** (Alibaba Group), where I led analytics for 500+ customer service agents processing 2M+ monthly transactions.
+---
+
+## 📊 Impact
+
+| Problem | Result |
+|---------|--------|
+| E-commerce fraud detection (Daraz) | **$45K quarterly savings**, 18% fraud reduction |
+| Ramadan payment recovery (GTAF) | **£12K+ recovered** in 72 hours |
+| LLM narrator extraction pipeline | **95.4% accuracy** at £1.06 total cost on 14,977 records |
+| Donor analytics infrastructure | **100% fundraising growth** over 2 years |
+| Data literacy program | **500+ agents** trained in self-service reporting |
+| Time-series forecasting | **30-day prediction horizon** on 2M+ monthly transactions |
 
 ---
 
@@ -41,64 +52,37 @@ Currently **Data Scientist at Greentech Apps Foundation** (UK-based Islamic tech
 
 ---
 
-## 🛠️ Technical Arsenal
+## 🛠️ Stack
 
-### Languages & Core
-Python (pandas, NumPy, scikit-learn) • SQL (advanced: CTEs, window functions, stored procedures) • R
-
-### Machine Learning & AI
-PyTorch • TensorFlow • LLM Integration (Gemini, GPT-4, Claude) • NLP • Fuzzy Matching • Supervised/Unsupervised Learning • Time-Series Forecasting • Sentiment Analysis
-
-### Data Engineering
-MongoDB • PostgreSQL • MySQL • Elasticsearch • BigQuery • ETL Pipelines • REST API Integration • Real-Time Streaming • Data Warehousing
-
-### Business Intelligence
-Looker Studio • Tableau • Power BI • Excel (Advanced: VBA, Macros) • Dashboard Design • Executive Reporting
-
-### Cloud & Infrastructure
-Google Cloud Platform • AWS • Alibaba Cloud • Ubuntu Server • Git • Docker • Cron Jobs • CI/CD Pipelines
-
-### Business & Strategy
-KPI Framework Design • Stakeholder Management • Root Cause Analysis • RICE Prioritization • Customer Lifetime Value (LTV) • Churn Modeling • Fraud Detection • Cross-Functional Leadership
-
----
-
-## 📊 Impact By The Numbers
-
-### Business Impact
-- **$45K quarterly savings** from MTEE fraud detection system at Daraz (18% reduction in fraudulent orders)
-- **£12K+ in stuck payments recovered** within 72 hours during Ramadan 2025 fundraising campaign
-- **100% fundraising growth** over two years at GTAF (supported by data infrastructure)
-- **40% improvement in data integrity** within 6 months through foundational KPI system
-
-### Technical Excellence
-- **95.4% extraction accuracy** on 14,977 Hadith narrator mappings
-- **80% weighted matching accuracy** on 25,000+ scholar database using fuzzy algorithms
-- **£1.06 total API cost** through aggressive optimization (processing 3,210 records)
-- **95%+ tagging coverage** on 6,236 Quranic verses across 12 emotional categories
-- **30-day prediction horizon** with PyTorch time-series models on 2M+ monthly transactions
-
-### Organizational Transformation
-- **500+ agents trained** in data literacy and self-service reporting
-- **16K+ donor records** automated from days-long manual process to daily updates
-- **12+ real-time dashboards** deployed for cross-functional operational optimization
-- **8 teams tracked** with automated performance scorecards eliminating manual processes organization-wide
-
-### Leadership & Research
-- **Led data analytics team** at Daraz for nearly 2 years (promoted to Team Lead within 9 months)
-- **Employee of the Quarter Q4 FY2022** - awarded by Chief Customer Officer, Daraz Bangladesh
-- **50-year systematic literature review** (1975-2025) on Hadith computational science
-- **Academic manuscript submitted** to *Artificial Intelligence Review* (April 2026)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat&logo=duckdb&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat&logo=googlebigquery&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Looker](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat&logo=looker&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
 ---
-
 
 ## 🌐 Projects
 
-### Production Systems
-Showcasing real-world systems:
+### Live
+🛡️ **[ecommerce-fraud-analysis](https://github.com/ashrafulhaqove/ecommerce-fraud-analysis)** · [Live Report](https://ashrafulhaqove.github.io/ecommerce-fraud-analysis)
+dbt + DuckDB pipeline: 8 weighted fraud rules, risk scoring (0–165), interactive HTML dashboard, CI/CD via GitHub Actions
 
-🎯 **donation-analytics-pipeline** — Live
+### Coming Soon
+🎯 **donation-analytics-pipeline**
 Segmentation, LTV forecasting, cohort migration tracking (16K+ records, 7-tier RFM classification)
 
 🔤 **arabic-nlp-toolkit**
@@ -120,11 +104,21 @@ Stripe integration, automated Slack alerts, failure rate tracking
 **BSc in Computer Science and Engineering**
 Ahsanullah University of Science and Technology (AUST) • CGPA: 3.73/4.00 • 2021
 
-**Research Interests:** Computational Hadith Science, Arabic NLP, LLM Applications in Islamic Scholarship
+**Research:** Computational Hadith Science, Arabic NLP, LLM Applications in Islamic Scholarship
+Academic manuscript submitted to *Artificial Intelligence Review* (April 2026)
 
 ---
 
+## 🏆 Recognition
 
+**Employee of the Quarter Q4 FY2022** — Daraz Bangladesh (Alibaba Group)
+Awarded by Chief Customer Officer for outstanding contributions to data-driven decision-making
+
+**AI & Local News Challenge** — Bangla-AI Grant Program, NYU Tandon School of Engineering
+
+**Debating Leadership** — President, Ideal Debating Club (2013–2014) | Vice President, Remains Debating Society (2015–2016)
+
+---
 
 ## 📫 Let's Connect
 
@@ -133,19 +127,3 @@ Ahsanullah University of Science and Technology (AUST) • CGPA: 3.73/4.00 • 2
 **Location:** Dhaka, Bangladesh
 
 💡 *Open to discussing data strategy, Arabic NLP challenges, organizational transformation through analytics, or opportunities in Islamic tech and Middle East markets.*
-
----
-
-### 🏆 Recognition
-
-**Employee of the Quarter** — Q4 FY2022, Daraz Bangladesh Ltd (Alibaba Group)
-Awarded by Chief Customer Officer for outstanding contributions to data-driven decision-making
-
-**AI & Local News Challenge** — Participant
-Bangla-AI Grant Program, New York University Tandon School of Engineering
-
-**Debating Leadership** — President, Ideal Debating Club (2013-2014) | Vice President, Remains Debating Society (2015-2016)
-
----
-
-*Last updated: May 2026*
