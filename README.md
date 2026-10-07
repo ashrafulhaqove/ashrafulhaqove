@@ -2,7 +2,7 @@
 
 **Data Engineer & Analytics Leader** — 5 years turning messy data into systems that scale.
 
-Currently **Data Scientist at Greentech Apps Foundation** (UK-based Islamic tech serving millions globally). Previously **Team Lead - Data** at **Daraz Bangladesh** (Alibaba Group), leading analytics for 500+ agents across 2M+ monthly transactions.
+5 years building data infrastructure at **Greentech Apps Foundation** and **Daraz Bangladesh** (Alibaba Group) — from LLM pipelines to fraud detection systems serving 2M+ monthly transactions. Currently advancing in AI & Data Engineering (PMAIDE) at University of Dhaka.
 
 ---
 
@@ -81,6 +81,9 @@ I lead with data. Whether it's **identifying hidden fraud patterns** costing $45
 🛡️ **[ecommerce-fraud-analysis](https://github.com/ashrafulhaqove/ecommerce-fraud-analysis)** · [Live Report](https://ashrafulhaqove.github.io/ecommerce-fraud-analysis)
 dbt + DuckDB pipeline: 8 weighted fraud rules, risk scoring (0–165), interactive HTML dashboard, CI/CD via GitHub Actions
 
+🏗️ **[agent-performance-monitoring](https://github.com/ashrafulhaqove/agent-performance-monitoring)**
+End-to-end Azure Lambda Architecture pipeline for e-commerce contact centre — ADLS Gen2, ADF, Kafka, Azure SQL, Power BI, ML anomaly detection and forecasting
+
 ### Coming Soon
 🎯 **donation-analytics-pipeline**
 Segmentation, LTV forecasting, cohort migration tracking (16K+ records, 7-tier RFM classification)
@@ -100,6 +103,9 @@ Stripe integration, automated Slack alerts, failure rate tracking
 ---
 
 ## 🎓 Academic Foundation
+
+**Master's in Artificial Intelligence & Data Engineering (PMAIDE)**
+University of Dhaka • 2026 – Present
 
 **BSc in Computer Science and Engineering**
 Ahsanullah University of Science and Technology (AUST) • CGPA: 3.73/4.00 • 2021
