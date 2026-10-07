@@ -97,8 +97,8 @@ PyTorch time-series prediction framework (30-day horizons, 2M+ transactions)
 ⚡ **realtime-payment-monitoring**
 Stripe integration, automated Slack alerts, failure rate tracking
 
-📚 **hadith-computational-science-review**
-50-year systematic literature review methodology and findings
+📚 **hadith-computational-science-review** · [arXiv:2608.20364](https://arxiv.org/abs/2608.20364)
+Critical narrative review of computational Hadith science in the age of LLMs (1975–2025)
 
 ---
 
@@ -111,7 +111,7 @@ University of Dhaka • 2026 – Present
 Ahsanullah University of Science and Technology (AUST) • CGPA: 3.73/4.00 • 2021
 
 **Research:** Computational Hadith Science, Arabic NLP, LLM Applications in Islamic Scholarship
-Academic manuscript submitted to *Artificial Intelligence Review* (April 2026)
+Academic manuscript submitted to *Artificial Intelligence Review* (April 2026) · [arXiv:2608.20364](https://arxiv.org/abs/2608.20364)
 
 ---
 
